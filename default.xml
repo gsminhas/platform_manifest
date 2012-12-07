@@ -11,7 +11,7 @@
   <remote  name="pipe"
            fetch="https://github.com/PipelinerArd/" />
 
-  <default revision="refs/heads/jellybean"
+  <default revision="refs/heads/mr1-staging"
            remote="github"
            sync-c="true"
            sync-j="8" />
