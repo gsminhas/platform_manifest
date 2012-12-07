@@ -31,8 +31,6 @@
   <project path="dalvik" name="android_dalvik" remote="pipe" revision="jellybean" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/samsung/maguro" name="device_samsung_maguro" remote="pipe" revision="jb" />
-  <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="pipe" revision="jellybean" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
   <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" />
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" />
@@ -328,7 +326,6 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
-  <project path="vendor/project" name="vendor_project" remote="pipe" revision="jb" />
   <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="pipe" revision="jellybean" />
   <project path="vendor/csr" name="proprietary_vendor_csr" remote="pipe" revision="jellybean" />
   <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="pipe" revision="jellybean" />
