@@ -215,7 +215,7 @@
   <project path="external/zlib" name="platform/external/zlib" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="frameworks_av" remote="cfx" revision="jb-dev" />
-  <project path="frameworks/base" name="Cyanogenmod/android_frameworks_base" remote="github" revision="cm-10.1" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" revision="cm-10.1" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
@@ -224,13 +224,13 @@
   <project path="frameworks/ex" name="frameworks_ex" remote="cfx" revision="jb-devel" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
-  <project path="frameworks/native" name="Cyanognemod/android_frameworks_native" remote="github" revision="cm-10.1" />
+  <project path="frameworks/native" name="CyanogneMod/android_frameworks_native" remote="github" revision="cm-10.1" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
-  <project path="frameworks/opt/emoji" name="Cyanogenmod/android_frameworks_opt_emoji" remote="github" revision="cm-10.1" />
+  <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" remote="github" revision="cm-10.1" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" />
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" />
-  <project path="frameworks/opt/mms" name="Cyanogenmod/android_frameworks_opt_mms" remote="github" revision="cm-10.1" />
+  <project path="frameworks/opt/mms" name="CyanogenMod/android_frameworks_opt_mms" remote="github" revision="cm-10.1" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="cfx" revision="jb-devel" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
@@ -290,7 +290,7 @@
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/Mms" name="Cyanogenmod/android_packages_apps_Mms" remote="github" revision="cm-10.1" />
+  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="github" revision="cm-10.1" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
@@ -299,7 +299,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="Cyanogenmod/android_packages_apps_Settings" remote="github" revision="cm-10.1" />
+  <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" remote="github" revision="cm-10.1" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="packages_apps_SoundRecorder" remote="cfx" revision="jb-devel" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
