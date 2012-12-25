@@ -3,7 +3,6 @@
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
-           revision="refs/tags/android-4.2.1_r1" />
 
   <remote  name="github"
            fetch=".."
@@ -18,10 +17,9 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/heads/cm-10.1"
-           remote="github"
-           sync-c="true"
-           sync-j="4" />
+  <default revision="refs/tags/android-4.2.1_r1"
+           remote="aosp"
+           sync-j="8" />
 
   <project path="build" name="build" remote="cfx" revision="jb-devel" >
     <copyfile src="core/root.mk" dest="Makefile" />
