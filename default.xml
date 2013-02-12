@@ -216,7 +216,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
-  <project path="external/zlib" name="external_zlib" remote="cfx" revision="jb-devel" />
+  <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="Andromadus/android_frameworks_av" remote="github" revision="cm10.1" />
   <project path="frameworks/base" name="frameworks_base" remote="xy" revision="jellybean" />
